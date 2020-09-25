@@ -1,1 +1,4 @@
-console.log('snipper');
+module.exports = function(){
+    console.log('snipper js');
+    return;
+}
